@@ -3,13 +3,13 @@
 
 <p>- <i> A passionate Third Year Engineering Student at VIT Pune. Proficient in Java, Databases, DSA and problem-solving. Always exploring new technologies to create impactful software solutions.</i></p>
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right">
+
 
 <h2 id="️-about-me">⚡🙋‍♂️ About Me</h2>
 <ul>
 <li>🔧 I’m currently working on........ an AI-powered talking avatar with real-time voice interactions and lip-syncing.</li>
 <li>💡 I’m curious about........ exploring new technologies and enhancing my skills.</li>
-<li>📖 I’m currently learning........Advanced Spring Boot.</li>
+<li>📖 I’m currently learning........Spring Boot.</li>
 <li>❄️ I’m looking to collaborate on........ AI, full-stack development, and open-source projects.</li>
 <li>📫 How to reach me: <a href="mailto:ghumeabhi04@gmail.com">ghumeabhi04@gmail.com</a></li>
 </ul>
@@ -51,7 +51,7 @@
 
 <h2>🚀 Featured Projects</h2>
 
-📢 **[Voice Chatbot with Avatar](https://github.com/AbhishekGhume/VoiceChatbot)**  
+📢 **[AI Avatar Generator](https://github.com/AbhishekGhume/AI-avatar-generator)**  
 🔹 Built a full-stack AI chatbot with voice interactions and **Google OAuth, Web Speech API, Wav2Lip, and Groq API**.  
 🔹 Technologies: **React.js, Node.js, Express, MongoDB, Python, JWT, Nodemailer**.  
 
