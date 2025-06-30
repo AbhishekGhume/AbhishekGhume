@@ -1,7 +1,7 @@
 <h1 id="hey-there-welcome-to-my-github-profile">Hey there 👋, Welcome to my GitHub Profile</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&amp;color=22EBF7&amp;size=25&amp;center=false&amp;lines=Hey!+I'm+Abhishek+Ghume;Tech+Enthusiast...;Problem+Solver...;Lifelong+Learner...">
 
-<p>- <i> A passionate Final Year Engineering Student at VIT Pune. Proficient in Java, Databases, DSA and problem-solving. Always exploring new technologies to create impactful software solutions.</i></p>
+<p>- <i> A passionate Final Year Engineering Student at VIT Pune. Proficient in Java, Databases, DSA and problem-solving. Always exploring new technologies to create impactful software solutions — including building intelligent AI agents and automation workflows using n8n.</i></p>
 
 ---
 
@@ -9,6 +9,7 @@
 <h4>Languages</h4>
 <p>
 <img src="https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange" alt="Java">&nbsp;
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Javascript">&nbsp;
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
@@ -34,6 +35,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">&nbsp;
+<img src="https://img.shields.io/badge/n8n-1A1A1A?style=flat&logo=n8n&logoColor=white" alt="n8n">&nbsp;
 </p> 
 
 ---
