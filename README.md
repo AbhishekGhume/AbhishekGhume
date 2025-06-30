@@ -1,18 +1,7 @@
 <h1 id="hey-there-welcome-to-my-github-profile">Hey there 👋, Welcome to my GitHub Profile</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&amp;color=22EBF7&amp;size=25&amp;center=false&amp;lines=Hey!+I'm+Abhishek+Ghume;Tech+Enthusiast...;Problem+Solver...;Lifelong+Learner...">
 
-<p>- <i> A passionate Third Year Engineering Student at VIT Pune. Proficient in Java, Databases, DSA and problem-solving. Always exploring new technologies to create impactful software solutions.</i></p>
-
-
-
-<h2 id="️-about-me">⚡🙋‍♂️ About Me</h2>
-<ul>
-<li>🔧 I’m currently working on........ an AI-powered talking avatar with real-time voice interactions and lip-syncing.</li>
-<li>💡 I’m curious about........ exploring new technologies and enhancing my skills.</li>
-<li>📖 I’m currently learning........Spring Boot.</li>
-<li>❄️ I’m looking to collaborate on........ AI, full-stack development, and open-source projects.</li>
-<li>📫 How to reach me: <a href="mailto:ghumeabhi04@gmail.com">ghumeabhi04@gmail.com</a></li>
-</ul>
+<p>- <i> A passionate Final Year Engineering Student at VIT Pune. Proficient in Java, Databases, DSA and problem-solving. Always exploring new technologies to create impactful software solutions.</i></p>
 
 ---
 
@@ -49,27 +38,10 @@
 
 ---
 
-<h2>🚀 Featured Projects</h2>
-
-📢 **[AI Avatar Generator](https://github.com/AbhishekGhume/AI-avatar-generator)**  
-🔹 Built a full-stack AI chatbot with voice interactions and **Google OAuth, Web Speech API, Wav2Lip, and Groq API**.  
-🔹 Technologies: **React.js, Node.js, Express, MongoDB, Python, JWT, Nodemailer**.  
-
-📊 **[TabuQuest](https://github.com/AbhishekGhume/TabuQuest)**  
-🔹 An AI-powered tool that allows users to query tabular data in **plain English**.  
-🔹 Features automated data cleaning, dynamic query execution, and visualization.  
-🔹 Technologies: **Python, Pandas, Streamlit, Gemini API, Plotly**.  
-
-🔒 **[Secure Journal Management System](https://github.com/AbhishekGhume/Journal-App)**  
-🔹 Secure web app for managing personal journal entries with **role-based access and encryption**.  
-🔹 Technologies: **Java, Spring Boot, MongoDB, Redis, RESTful APIs**.  
-
----
-
 <h2>📜 Achievements & Certifications</h2>
 
 🏆 **Published Research Paper** - [Multipurpose Attachment System for Agriculture](https://www.e3s-conferences.org/articles/e3sconf/ref/2023/42/e3sconf_icstce2023_01012/e3sconf_icstce2023_01012.html)  
-🎯 **LeetCode Annual Badge** - Solved **300+ problems** in 2024! [LeetCode Profile](https://leetcode.com/u/ghumeabhi04/)  
+🎯 **LeetCode Annual Badge** - Solved **500+ problems**! [LeetCode Profile](https://leetcode.com/u/ghumeabhi04/)  
 
 ---
 
