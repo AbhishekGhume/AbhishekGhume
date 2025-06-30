@@ -34,14 +34,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">&nbsp;
-</p>
-
----
-
-<h2>📜 Achievements & Certifications</h2>
-
-🏆 **Published Research Paper** - [Multipurpose Attachment System for Agriculture](https://www.e3s-conferences.org/articles/e3sconf/ref/2023/42/e3sconf_icstce2023_01012/e3sconf_icstce2023_01012.html)  
-🎯 **LeetCode Annual Badge** - Solved **500+ problems**! [LeetCode Profile](https://leetcode.com/u/ghumeabhi04/)  
+</p> 
 
 ---
 
