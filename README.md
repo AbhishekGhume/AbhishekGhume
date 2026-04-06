@@ -47,6 +47,7 @@
 📩 **Email:** <a href="mailto:ghumeabhi04@gmail.com">ghumeabhi04@gmail.com</a>  
 📌 **GitHub:** [github.com/AbhishekGhume](https://github.com/AbhishekGhume)  
 💼 **LinkedIn:** [linkedin.com/in/abhishekghume](https://linkedin.com/in/abhishekghume)  
+🚀 **LeetCode:** [leetcode.com/u/ghumeabhi04/](https://leetcode.com/u/ghumeabhi04/)
 
 ---
 
