@@ -1,7 +1,7 @@
 <h1 id="hey-there-welcome-to-my-github-profile">Hey there 👋, Welcome to my GitHub Profile</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&amp;color=22EBF7&amp;size=25&amp;center=false&amp;lines=Hey!+I'm+Abhishek+Ghume;Tech+Enthusiast...;Problem+Solver...;Lifelong+Learner...">
 
-<p>- <i> Final-year Electronics & Telecommunications student at VIT Pune with strong proficiency in Java, Spring Boot, databases, and data structures & algorithms. Passionate about backend development, system design, and building scalable software solutions. Experienced in developing secure REST APIs, automation workflows using n8n, and AI-powered applications.</i></p>
+<p>- <i> B.Tech graduate in Electronics & Telecommunications from VIT Pune with strong proficiency in Java, Spring Boot, databases, and data structures & algorithms. Passionate about backend development, system design, and building scalable software solutions. Experienced in developing secure REST APIs, automation workflows using n8n, and AI-powered applications.</i></p>
 
 ---
 
